@@ -13,10 +13,10 @@ We create three simple functionalities.
 docker-compose up -d 
 ```
 
-### Usage 
-####Search
+## Usage 
+###Search
 ````/article-search?search=programming````
-####Filter
+###Filter
 ```/article-search?category=2```
-####Auto-Complete
+###Auto-Complete
 ```/article-search/suggest?title__completion=how ```
