@@ -14,9 +14,9 @@ docker-compose up -d
 ```
 
 ## Usage 
-###Search
+
 ````/article-search?search=programming````
-###Filter
+
 ```/article-search?category=2```
-###Auto-Complete
+
 ```/article-search/suggest?title__completion=how ```
